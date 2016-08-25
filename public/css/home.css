@@ -36,11 +36,24 @@ h1 {
     color: rgba(0, 0, 0, 0.4); }
   .home_square.text h2 {
     font-weight: 500;
-    line-height: 1;
-    font-size: 1.5vw; }
+    line-height: 1; }
+
+@media screen and (min-width: 1024px) {
+  .text p {
+    font-size: 65%; }
+  .text h2 {
+    font-size: 100%; } }
 
 @media screen and (min-width: 1280px) {
   .intro {
-    margin-top: 2em; } }
+    margin-top: 2em; }
+  .text p {
+    font-size: 80%; }
+  .text h2 {
+    font-size: 120%; } }
+
+@media screen and (min-width: 1400px) {
+  .text h2 {
+    font-size: 175%; } }
 
 /*# sourceMappingURL=home.css.map */

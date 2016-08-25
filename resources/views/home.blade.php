@@ -13,8 +13,8 @@
             </p>
         </div>
     </div>
-    <div class="pure-u-1 pure-u-lg-2-24"></div>
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
+    <div class="pure-u-1 pure-u-xl-2-24"></div>
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
         <div class="pure-u-1 home_square first text">
             <div class="l-box">
                 <p>
@@ -27,7 +27,7 @@
 
         </div>
     </div>
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
         <div class="pure-u-1 home_square clear">
 
         </div>
@@ -37,47 +37,52 @@
     </div>
 </div>
 <div class="pure-g">
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
         <div class="pure-u-1 home_square">
 
         </div>
     </div>
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
         <div class="pure-u-1 home_square img biglife">
 
         </div>
     </div>
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
         <div class="pure-u-1 home_square">
 
         </div>
     </div>
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
         <div class="pure-u-1 home_square img rubix">
 
         </div>
     </div>
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
         <div class="pure-u-1 home_square">
 
         </div>
     </div>
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
-        <div class="pure-u-1 home_square clear">
-
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
+        <div class="pure-u-1 home_square clear text">
+            <div class="l-box">
+                <p>
+                    Insights <span>&middot;</span> Print &#8212;
+                </p>
+                <h2>Still warm: <i>Bus Shorts of Hollywood</i></h2>
+            </div>
         </div>
     </div>
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
         <div class="pure-u-1 home_square img pwps">
 
         </div>
     </div>
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
         <div class="pure-u-1 home_square">
 
         </div>
     </div>
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
         <div class="pure-u-1 home_square colour red text">
             <div class="l-box">
                 <p>
@@ -87,47 +92,52 @@
             </div>
         </div>
     </div>
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
         <div class="pure-u-1 home_square clear">
 
         </div>
     </div>
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
         <div class="pure-u-1 home_square img bsh">
 
         </div>
     </div>
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
         <div class="pure-u-1 home_square">
 
         </div>
     </div>
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
         <div class="pure-u-1 home_square">
 
         </div>
     </div>
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
+        <div class="pure-u-1 home_square clear text">
+            <div class="l-box">
+                <p>
+                    News <span>&middot;</span> Web &#8212;
+                </p>
+                <h2>Job done: <i>Bent Rod Squad</i></h2>
+            </div>
+        </div>
+    </div>
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
         <div class="pure-u-1 home_square img brs">
 
         </div>
     </div>
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
-        <div class="pure-u-1 home_square clear">
-
-        </div>
-    </div>
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
         <div class="pure-u-1 home_square">
 
         </div>
     </div>
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
         <div class="pure-u-1 home_square img ">
 
         </div>
     </div>
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
         <div class="pure-u-1 home_square colour yellow text">
             <div class="l-box">
                 <p>
@@ -139,7 +149,7 @@
     </div>
 </div>
 <div class="pure-g">
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
         <div class="pure-u-1 home_square second text">
             <div class="l-box">
                 <p>
@@ -152,7 +162,7 @@
 
         </div>
     </div>
-    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-lg-4-24">
+    <div class="pure-u-8-24 pure-u-md-6-24 pure-u-xl-4-24">
         <div class="pure-u-1 home_square clear">
 
         </div>
@@ -164,7 +174,7 @@
     <div class="pure-u-1 pure-u-lg-14-24">
         <div class="l-box">
             <h1><strong>This is <i>just some of</i> our portfolio.</strong> Have a look around.</h1>
-            <h1>We cater for <strong>projects of every kinds and size</strong>. We love working with small local businesses as much as we do with school and larger businesses too.</h1>
+            <h1>We cater for <strong>projects of every kinds and size</strong>. We love working with small local businesses as much as we do with schools, and larger businesses too.</h1>
             <h1>If you like what you see, feel free to <a href="">get in touch</a>.</h1>
         </div>
     </div>
