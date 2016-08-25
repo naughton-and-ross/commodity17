@@ -1,4 +1,28 @@
 h1 {
   font-weight: 200; }
 
+.home_square {
+  background-color: #ebeae6; }
+  .home_square.first {
+    background-color: rgba(242, 241, 237, 0.4); }
+  .home_square.second {
+    background-color: rgba(242, 241, 237, 0.7); }
+  .home_square.clear {
+    background-color: rgba(255, 255, 255, 0); }
+  .home_square.blue {
+    background-color: #3498db; }
+  .home_square.green {
+    background-color: #2ecc71; }
+  .home_square.img {
+    background-position: center;
+    background-size: cover; }
+  .home_square.biglife {
+    background-image: url("https://n-r.co/upload/6-4.jpeg"); }
+  .home_square.pwps {
+    background-image: url("https://n-r.co/upload/5-cover.jpeg"); }
+  .home_square.rubix {
+    background-image: url("https://n-r.co/upload/2-cover.jpeg"); }
+  .home_square.bsh {
+    background-image: url("https://n-r.co/upload/1-3.jpeg"); }
+
 /*# sourceMappingURL=home.css.map */

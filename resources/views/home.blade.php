@@ -10,11 +10,94 @@
             <h1>Focusing our work on <strong>Web Design & Development</strong>, we can also help with graphic design, print and publishing design, stationery, and photography.</h1>
         </div>
     </div>
-    <div class="pure-u-5-24">
+    <div class="pure-u-2-24"></div>
+    <div class="pure-u-4-24">
+        <div class="pure-u-1 home_square first">
 
+        </div>
+        <div class="pure-u-1 home_square clear">
+
+        </div>
     </div>
-    <div class="pure-u-5-24">
+    <div class="pure-u-4-24">
+        <div class="pure-u-1 home_square clear">
 
+        </div>
+        <div class="pure-u-1 home_square second">
+
+        </div>
     </div>
 </div>
+<div class="pure-g">
+    <div class="pure-u-4-24">
+        <div class="pure-u-1 home_square">
+
+        </div>
+    </div>
+    <div class="pure-u-4-24">
+        <div class="pure-u-1 home_square">
+
+        </div>
+    </div>
+    <div class="pure-u-4-24">
+        <div class="pure-u-1 home_square img biglife">
+
+        </div>
+    </div>
+    <div class="pure-u-4-24">
+        <div class="pure-u-1 home_square img rubix">
+
+        </div>
+    </div>
+    <div class="pure-u-4-24">
+        <div class="pure-u-1 home_square">
+
+        </div>
+    </div>
+    <div class="pure-u-4-24">
+        <div class="pure-u-1 home_square clear">
+
+        </div>
+    </div>
+    <div class="pure-u-4-24">
+        <div class="pure-u-1 home_square img pwps">
+
+        </div>
+    </div>
+    <div class="pure-u-4-24">
+        <div class="pure-u-1 home_square">
+
+        </div>
+    </div>
+    <div class="pure-u-4-24">
+        <div class="pure-u-1 home_square blue">
+
+        </div>
+    </div>
+    <div class="pure-u-4-24">
+        <div class="pure-u-1 home_square clear">
+
+        </div>
+    </div>
+    <div class="pure-u-4-24">
+        <div class="pure-u-1 home_square img bsh">
+
+        </div>
+    </div>
+    <div class="pure-u-4-24">
+        <div class="pure-u-1 home_square">
+
+        </div>
+    </div>
+</div>
+<script>
+    $(document).ready(function(){
+        var cw = $('.home_square').width();
+        $('.home_square').css({'height':cw+'px'});
+        $(window).on('resize', function(){
+            var cw = $('.home_square').width();
+            $('.home_square').css({'height':cw+'px'});
+        });
+    });
+</script>
 @endsection
