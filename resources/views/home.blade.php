@@ -12,8 +12,13 @@
     </div>
     <div class="pure-u-2-24"></div>
     <div class="pure-u-4-24">
-        <div class="pure-u-1 home_square first">
-
+        <div class="pure-u-1 home_square first text">
+            <div class="l-box">
+                <p>
+                    News <span>&middot;</span> Web &#8212;
+                </p>
+                <h2><i>Little Sports Heroes</i> goes online</h2>
+            </div>
         </div>
         <div class="pure-u-1 home_square clear">
 
@@ -35,12 +40,12 @@
         </div>
     </div>
     <div class="pure-u-4-24">
-        <div class="pure-u-1 home_square">
+        <div class="pure-u-1 home_square img biglife">
 
         </div>
     </div>
     <div class="pure-u-4-24">
-        <div class="pure-u-1 home_square img biglife">
+        <div class="pure-u-1 home_square">
 
         </div>
     </div>
@@ -70,8 +75,13 @@
         </div>
     </div>
     <div class="pure-u-4-24">
-        <div class="pure-u-1 home_square blue">
-
+        <div class="pure-u-1 home_square colour yellow text">
+            <div class="l-box">
+                <p>
+                    News <span>&middot;</span> Web &#8212;
+                </p>
+                <h2><i>Little Sports Heroes</i> goes online</h2>
+            </div>
         </div>
     </div>
     <div class="pure-u-4-24">

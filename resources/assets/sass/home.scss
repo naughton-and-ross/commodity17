@@ -2,16 +2,20 @@
 
 h1 {
     font-weight: 200;
+
+    strong {
+        font-weight: 500;
+    }
 }
 
 .home_square {
-    background-color: #ebeae6;
+    background-color: #f2f2f2;
 
     &.first {
-        background-color: rgba(#f2f1ed, 0.4);
+        background-color: rgba(#f2f2f2, 0.4);
     }
     &.second {
-        background-color: rgba(#f2f1ed, 0.7);
+        background-color: rgba(#f2f2f2, 0.7);
     }
 
     &.clear {
@@ -22,6 +26,9 @@ h1 {
     }
     &.green {
         background-color: #2ecc71;
+    }
+    &.yellow {
+        background-color: #f5cb23;
     }
 
     &.img {
@@ -40,5 +47,18 @@ h1 {
     }
     &.bsh {
         background-image: url('https://n-r.co/upload/1-3.jpeg');
+    }
+
+    &.text {
+
+
+        p {
+            color: rgba(black, 0.4);
+        }
+
+        h2 {
+            font-weight: 500;
+            line-height: 1;
+        }
     }
 }

@@ -4,7 +4,7 @@ body {
 html, button, input, select, textarea,
 .pure-g [class*="pure-u"] {
   /* Set your content font stack here: */
-  font-family: "sofia-pro-soft", sans-serif; }
+  font-family: "alda", "sofia-pro-soft", sans-serif; }
 
 #master_wrapper {
   max-width: 1400px;
