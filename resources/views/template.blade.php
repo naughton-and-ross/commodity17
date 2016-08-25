@@ -2,6 +2,7 @@
 <html>
     <head>
         <title>NR2017</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
         <script src="https://use.typekit.net/rnd5fkg.js"></script>
         <script>try{Typekit.load({ async: true });}catch(e){}</script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
