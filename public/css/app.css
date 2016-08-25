@@ -6,6 +6,14 @@ html, button, input, select, textarea,
   /* Set your content font stack here: */
   font-family: "alda", "sofia-pro-soft", sans-serif; }
 
+a {
+  font-weight: 500;
+  color: black;
+  border-bottom: 2px solid black; }
+  a:link, a :visited {
+    text-decoration: none;
+    color: inherit; }
+
 #master_wrapper {
   max-width: 1400px;
   margin: 0 auto; }

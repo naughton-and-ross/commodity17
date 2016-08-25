@@ -9,13 +9,13 @@ h1 {
 }
 
 .home_square {
-    background-color: #f2f2f2;
+    background-color: rgba(#f2f2f2, 0.8);
 
     &.first {
         background-color: rgba(#f2f2f2, 0.4);
     }
     &.second {
-        background-color: rgba(#f2f2f2, 0.7);
+        background-color: rgba(#f2f2f2, 0.6);
     }
 
     &.clear {
@@ -29,6 +29,9 @@ h1 {
     }
     &.yellow {
         background-color: #f5cb23;
+    }
+    &.red {
+        background-color: #fc6151;
     }
 
     &.img {
@@ -48,6 +51,9 @@ h1 {
     &.bsh {
         background-image: url('https://n-r.co/upload/1-3.jpeg');
     }
+    &.brs {
+        background-image: url('http://thebentrodsquad.com/wp-content/uploads/2016/03/brs_updated_logo_500x500.jpg');
+    }
 
     &.text {
 
@@ -59,6 +65,13 @@ h1 {
         h2 {
             font-weight: 500;
             line-height: 1;
+            font-size: 1.5vw;
         }
+    }
+}
+
+@media screen and (min-width: 1280px) {
+    .intro {
+        margin-top: 2em;
     }
 }
