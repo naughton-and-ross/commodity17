@@ -17,8 +17,6 @@
         @yield('head')
     </head>
     <body>
-        <div id="master_wrapper">
-            @yield('body')
-        </div>
+        @yield('body')
     </body>
 </html>

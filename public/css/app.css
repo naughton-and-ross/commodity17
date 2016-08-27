@@ -9,12 +9,22 @@ html, button, input, select, textarea,
 a {
   font-weight: 500;
   color: black;
-  border-bottom: 2px solid black; }
+  border-bottom: 3px solid black; }
   a:link, a :visited {
     text-decoration: none;
     color: inherit; }
 
-#master_wrapper {
+.master_outer {
+  width: 100%; }
+  .master_outer.invert {
+    color: white; }
+    .master_outer.invert a {
+      color: inherit;
+      border-bottom: 3px solid white; }
+  .master_outer.blue {
+    background-color: #3498db; }
+
+.master_wrapper {
   max-width: 1400px;
   margin: 0 auto; }
 

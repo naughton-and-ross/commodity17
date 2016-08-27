@@ -1,5 +1,6 @@
 h1 {
-  font-weight: 200; }
+  font-weight: 200;
+  font-size: 1.5em; }
   h1 strong {
     font-weight: 500; }
 
@@ -53,6 +54,8 @@ h1 {
     font-size: 120%; } }
 
 @media screen and (min-width: 1400px) {
+  h1 {
+    font-size: 2em; }
   .text h2 {
     font-size: 175%; } }
 

@@ -13,7 +13,7 @@ html, button, input, select, textarea,
 a {
     font-weight: 500;
     color: black;
-    border-bottom: 2px solid black;
+    border-bottom: 3px solid black;
 
     &:link, :visited {
         text-decoration: none;
@@ -21,8 +21,24 @@ a {
     }
 }
 
+.master_outer {
+    width: 100%;
 
-#master_wrapper {
+    &.invert {
+        color: white;
+
+        a {
+            color: inherit;
+            border-bottom: 3px solid white;
+        }
+    }
+
+    &.blue {
+        background-color: #3498db;
+    }
+}
+
+.master_wrapper {
     max-width: 1400px;
     margin: 0 auto;
 }
