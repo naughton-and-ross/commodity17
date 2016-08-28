@@ -14,6 +14,7 @@
             <link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.6.0/grids-responsive-min.css">
         <!--<![endif]-->
         <link rel="stylesheet" href="{{asset('css/app.css')}}" />
+        <link rel="stylesheet" href="{{asset('font-awesome/css/font-awesome.min.css')}}" />
         @yield('head')
     </head>
     <body>

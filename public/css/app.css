@@ -14,6 +14,45 @@ a {
     text-decoration: none;
     color: inherit; }
 
+form input {
+  width: 100%;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
+  background-color: inherit;
+  color: #1d1d1d;
+  font-size: 180%;
+  padding: 0.3em;
+  margin-bottom: 0.3em; }
+
+form button {
+  float: right;
+  border: 1px solid black;
+  background-color: inherit;
+  padding: 0.3em;
+  font-size: 150%;
+  margin-right: -0.7em;
+  margin-bottom: 1em; }
+
+::-webkit-input-placeholder {
+  /* WebKit, Blink, Edge */
+  color: #505050; }
+
+:-moz-placeholder {
+  /* Mozilla Firefox 4 to 18 */
+  color: #505050;
+  opacity: 1; }
+
+::-moz-placeholder {
+  /* Mozilla Firefox 19+ */
+  color: #505050;
+  opacity: 1; }
+
+:-ms-input-placeholder {
+  /* Internet Explorer 10-11 */
+  color: #505050; }
+
 .master_outer {
   width: 100%; }
   .master_outer.invert {
@@ -21,8 +60,14 @@ a {
     .master_outer.invert a {
       color: inherit;
       border-bottom: 3px solid white; }
+  .master_outer .img.fpg {
+    background-image: url("https://farm1.staticflickr.com/430/18143519083_85c8c66813_k_d.jpg");
+    background-size: right;
+    background-position: center; }
   .master_outer.blue {
     background-color: #3498db; }
+  .master_outer.yellow {
+    background-color: #f1c40f; }
 
 .master_wrapper {
   max-width: 1400px;

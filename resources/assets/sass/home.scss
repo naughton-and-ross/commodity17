@@ -55,6 +55,9 @@ h1 {
     &.brs {
         background-image: url('http://thebentrodsquad.com/wp-content/uploads/2016/03/brs_updated_logo_500x500.jpg');
     }
+    &.cc {
+        background-image: url('/img/tiles.jpg');
+    }
 
     &.text {
 
@@ -67,7 +70,18 @@ h1 {
             font-weight: 500;
             line-height: 1;
         }
+
+        &.feature {
+            p {
+                font-family: "sofia-pro-soft", sans-serif;
+            }
+        }
     }
+}
+
+.fpg_text {
+    padding: 25em 0 25em 0;
+    background-color: #34495e;
 }
 
 @media screen and (min-width: 1024px) {
