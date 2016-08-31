@@ -225,41 +225,6 @@
                     </div>
                 </div>
             </div>
-            <div class="pure-u-1-2 pure-u-md-6-24 pure-u-xl-4-24">
-                <div class="pure-u-1 home_square img pwps">
-
-                </div>
-            </div>
-            <div class="pure-u-1-2 pure-u-md-6-24 pure-u-xl-4-24">
-                <div class="pure-u-1 home_square">
-
-                </div>
-            </div>
-            <div class="pure-u-1-2 pure-u-md-6-24 pure-u-xl-4-24">
-                <div class="pure-u-1 home_square colour red text">
-                    <div class="l-box">
-                        <p>
-                            News <span>&middot;</span> Design &#8212;
-                        </p>
-                        <h2><i>Preston West Primary</i> gets a makeover</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="pure-u-1-2 pure-u-md-6-24 pure-u-xl-4-24">
-                <div class="pure-u-1 home_square clear">
-
-                </div>
-            </div>
-            <div class="pure-u-1-2 pure-u-md-6-24 pure-u-xl-4-24">
-                <div class="pure-u-1 home_square img bsh">
-
-                </div>
-            </div>
-            <div class="pure-u-1-2 pure-u-md-6-24 pure-u-xl-4-24">
-                <div class="pure-u-1 home_square">
-
-                </div>
-            </div>
         </div>
     </div>
 </div>

@@ -35,6 +35,13 @@ h1 {
         background-color: #fc6151;
     }
 
+    &.light {
+        background-color: rgba(#f2f2f2, 0.5);
+    }
+    &.dark {
+        background-color: rgba(#f2f2f2, 0.9);
+    }
+
     &.img {
         background-position: center;
         background-size: cover;

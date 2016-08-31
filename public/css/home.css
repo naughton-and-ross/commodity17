@@ -20,6 +20,10 @@ h1 {
     background-color: #f5cb23; }
   .home_square.red {
     background-color: #fc6151; }
+  .home_square.light {
+    background-color: rgba(242, 242, 242, 0.5); }
+  .home_square.dark {
+    background-color: rgba(242, 242, 242, 0.9); }
   .home_square.img {
     background-position: center;
     background-size: cover; }
