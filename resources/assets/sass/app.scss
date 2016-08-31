@@ -47,18 +47,22 @@ form {
 }
 
 ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
-    color:    #505050;
+    color:    #e9e9e9;
+    font-weight: 200;
 }
 :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
-   color:    #505050;
+    color:    #e9e9e9;
+    font-weight: 200;
    opacity:  1;
 }
 ::-moz-placeholder { /* Mozilla Firefox 19+ */
-   color:    #505050;
+    color:    #e9e9e9;
+    font-weight: 200;
    opacity:  1;
 }
 :-ms-input-placeholder { /* Internet Explorer 10-11 */
-   color:    #505050;
+    color:    #e9e9e9;
+    font-weight: 200;
 }
 
 .master_outer {
