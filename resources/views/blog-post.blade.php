@@ -8,9 +8,9 @@
         <div class="pure-u-1 pure-u-xl-14-24 intro">
             <div class="l-box">
                 <h1><strong>Naughton & Ross</strong> &middot; Blog</h1>
-                <h1>Blog Title</h1>
-                <p>
-                	date, author 
+                <h1>Melbourne-based <i>Little Sports Heroes</i> gets online with Naughton & Ross</h1>
+                <p class="details">
+                	September 6, 2016 &middot; William Naughton-Gravette 
                 </p>
             </div>
         </div>
