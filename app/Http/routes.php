@@ -14,3 +14,7 @@
 Route::get('/', function () {
     return view('home');
 });
+
+Route::get('/blog-post', function () {
+    return view('blog-post');
+});
