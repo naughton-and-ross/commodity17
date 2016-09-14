@@ -1,4 +1,5 @@
 @extends('template')
+@section('title', 'Web Design & Development in Melbourne')
 @section('head')
 <link rel="stylesheet" href="{{asset('css/home.css')}}" />
 @endsection
