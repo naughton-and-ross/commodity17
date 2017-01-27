@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Naughton & Ross &middot; @yield('title')</title>
+        <title>Commodity Creative &middot; @yield('title')</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <script src="https://use.typekit.net/rnd5fkg.js"></script>
         <script>try{Typekit.load({ async: true });}catch(e){}</script>

@@ -28,16 +28,18 @@ h1 {
     background-position: center;
     background-size: cover; }
   .home_square.biglife {
-    background-image: url("https://n-r.co/upload/6-4.jpeg"); }
+    background-image: url("/img/abl.jpg"); }
   .home_square.pwps {
-    background-image: url("https://n-r.co/upload/5-cover.jpeg"); }
+    background-image: url("/img/pwps.png"); }
   .home_square.rubix {
-    background-image: url("https://n-r.co/upload/2-cover.jpeg"); }
+    background-image: url("/img/rubix.jpg"); }
   .home_square.bsh {
     background-image: url("https://n-r.co/upload/1-3.jpeg"); }
   .home_square.brs {
     background-image: url("http://thebentrodsquad.com/wp-content/uploads/2016/03/brs_updated_logo_500x500.jpg"); }
   .home_square.cc {
+    background-image: url("/img/cc.png"); }
+  .home_square.tiles {
     background-image: url("/img/tiles.jpg"); }
   .home_square.text p {
     color: rgba(0, 0, 0, 0.4); }
@@ -47,6 +49,9 @@ h1 {
   .home_square.text.feature p {
     font-family: "sofia-pro-soft", sans-serif; }
 
+.blank {
+  display: none; }
+
 .fpg_text {
   padding: 25em 0 25em 0;
   background-color: #34495e; }
@@ -55,7 +60,9 @@ h1 {
   .text p {
     font-size: 65%; }
   .text h2 {
-    font-size: 100%; } }
+    font-size: 100%; }
+  .blank {
+    display: block; } }
 
 @media screen and (min-width: 1280px) {
   .intro {
