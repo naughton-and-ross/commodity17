@@ -12,7 +12,15 @@ class BlogPosts extends Migration
      */
     public function up()
     {
-        //
+        Schema::create('blog_posts', function (Blueprint $table) {
+            $table->increments('id');
+		    $table->integer('user_id');
+            $table->string('slug');
+            $table->string('title');
+            $table->string('body');
+            $table->rememberToken();
+            $table->timestamps();
+        });
     }
 
     /**
@@ -22,6 +30,6 @@ class BlogPosts extends Migration
      */
     public function down()
     {
-        //
+       	Schema::drop('blog_posts');
     }
 }
