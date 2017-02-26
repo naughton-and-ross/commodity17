@@ -11,7 +11,7 @@
             <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.2/grids-responsive-old-ie-min.css">
         <![endif]-->
         <!--[if gt IE 8]><!-->
-            <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.2/bgrids-responsive-min.css">
+            <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/pure/0.6.2/grids-responsive-min.css">
         <!--<![endif]-->
         <link rel="stylesheet" href="{{asset('css/app.css')}}" />
         <link rel="stylesheet" href="{{asset('font-awesome/css/font-awesome.min.css')}}" />
